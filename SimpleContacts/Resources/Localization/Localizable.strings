@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  SimpleContacts
+
+  Created by Astghik Hakopian on 28.12.22.
+  
+*/
+
+// MARK: - List
+
+"contacts.title" = "Emergency Contacts";
+"contacts.list.description" = "List people we can call upon your request in the event oc an emergency.";
+"contacts.list.add" = "ADD A CONTACT";
+
+
+// MARK: - Add
+
+"contacts.add.title" = "Add Contact";
+"contacts.edit.title" = "Edit Contact";
+
+"contacts.add.firstName" = "First Name";
+"contacts.add.firstName.placeholder" = "John";
+
+"contacts.add.lastName" = "Last Name";
+"contacts.add.lastName.placeholder" = "Doe";
+
+"contacts.add.primaryPhone" = "Primary Phone";
+"contacts.add.primaryPhone.placeholder" = "(000) 000-0000";
+
+"contacts.add.save" = "SAVE";
+"contacts.details.delete" = "DELETE CONTACT";
+
+"contacts.details.delete.title" = "Delete Contact?";
+"contacts.details.delete.message" = "Are you sure you want to remove this contact?";
+"contacts.details.delete.yes" = "Yes";
+
+
+// MARK: - Alert
+
+"alert.contact.added" = "Emergency contact created successfully";
+"alert.contact.updated" = "Emergency contact saved successfully";
+"alert.contact.deleted" = "Emergency contact deleted successfully";
